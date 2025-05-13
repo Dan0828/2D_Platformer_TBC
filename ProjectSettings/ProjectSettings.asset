@@ -655,11 +655,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 4d021109-4711-4609-b640-1509950696de
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: 2D_Platformer_TBC
+  organizationId: dan-allan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
