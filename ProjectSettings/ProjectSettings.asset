@@ -641,7 +641,8 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -655,10 +656,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 4d021109-4711-4609-b640-1509950696de
+  cloudProjectId: d276badf-d62b-448b-8983-6b74c47c7f05
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2D_Platformer_TBC
+  projectName: 2D_Platformer
   organizationId: dan-allan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
